@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is **victorino gomes**, I'm 21 years old, I'm a self-taught fullstack developer, I started programming in 2020.
+I develop systems in _PHP and Python_ but I prefer **Javascript (node ​​js)** so far it has given me all the tools to solve day-to-day dilemmas.
+- 📫 How to reach me: victorinogomes1@hotmail.com or in instagram @gomes_victorino
+- 🔭 I’m currently working on self project
+- 👯 I’m looking to collaborate on start up project
+- ⚡ Fun fact: I love solve bugs 😄
+Call for _collaboration so that we can grow even more._
+-Languages:
+**Portuguese and English**
