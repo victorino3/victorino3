@@ -22,6 +22,6 @@ I develop systems in _PHP and Python_ but I prefer **Javascript (node ​​js)*
 - 👯 I’m looking to collaborate on start up project
 - ⚡ Fun fact: I love solve bugs 😄
 - ⚡ Fun fact: **Looking for first job as programmer web or mobile**
-.Call for _collaboration so that we can grow even more._
+- Call for _collaboration so that we can grow even more._
 -Languages:
 **Portuguese and English**
