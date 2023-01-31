@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is **victorino gomes**, I'm 21 years old, I'm a self-taught fullstack developer, I started programming in 2020.
-I develop systems in _PHP and Python_ but lately I'm focused on developing and improving my skill in **Javascript (node js)** so far it has given me all the tools to solve everyday dilemmas.
-**Java for mobile**.
+My name is **Victorino Gomes**, I'm 21 years old, I'm a self-taught fullstack developer, I started programming in 2020.
+I develop systems in _PHP and Python_ but lately I'm focused on developing and improving my skill in **Javascript (node js)** so far it has given me all the tools to solve everyday dilemmas and in 2021 I started to develop mobile application with **Java** for android.
 - 📫 How to reach me: victorinogomes1@hotmail.com or in instagram @gomes_victorino
 - 🔭 I’m currently working on self project
 - 👯 I’m looking to collaborate on start up project
