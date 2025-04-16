@@ -1,26 +1,15 @@
 ### Hi there 👋
 
-<!--
-**victorino3/victorino3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
+My name is Victorino Gomes, I’m 24 and a passionate, self-taught fullstack developer. I started coding in 2020, and since then I’ve been on a journey of constant learning and growth.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-My name is **Victorino Gomes**, I'm 22 years old, I'm a self-taught fullstack developer, I started programming in 2020.
-I develop systems in _PHP and Python_ but lately I'm focused on developing and improving my skill in **Javascript (node js)** so far it has given me all the tools to solve everyday dilemmas and in 2021 I started to develop mobile application with **Java** for android.
-- 📫 How to reach me: victorinogomes1@hotmail.com or in instagram @gomes_victorino
-- 🔭 I’m currently working on self project
-- 👯 I’m looking to collaborate on start up project
-- ⚡ Fun fact: I love solve bugs 😄
-- ⚡ Fun fact: **Looking for first job as programmer web or mobile**
-- Call for _collaboration so that we can grow even more._
--Languages:
-**Portuguese and English**
+🔭 I’m currently working on improving my skills in Salesforce, with hands-on experience in Salesforce Loyalty Management, Apex, LWC, and Einstein Bots. I'm also learning more about APIs and integration best practices.
+🌱 I dedicate daily time to build real-world projects with JavaScript (Node.js) and LWC, aiming to master front-end and back-end development on the Salesforce platform.
+📱 I have past experience building Android apps using Java, and also have backend experience with PHP and Python.
+🛠️ I'm currently building a challenge project to showcase my Salesforce & LWC skills — focused on impressing recruiters and solidifying core dev concepts.
+🤝 I’m open to collaborating on exciting projects or startups, especially in the Salesforce or JavaScript ecosystem.
+💬 Ask me about Salesforce dev, LWC, Apex, and fullstack project ideas.
+📫 Reach me at: victorinogomes1@hotmail.com or on Instagram @gomes_victorino
+🌍 Languages: Portuguese and English
+⚡ Fun fact: I genuinely enjoy debugging — there's something super satisfying about turning errors into elegant solutions 😄
+🚀 Actively looking for my first opportunity as a Web or Mobile Developer. Let’s grow together!
